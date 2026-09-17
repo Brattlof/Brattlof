@@ -4,6 +4,4 @@ Software engineer in Borlänge, Sweden. I take systems from architecture to prod
 
 Low-level is where I started, Windows internals and reverse engineering back in 2019.
 
-### Elsewhere
-
 [albin.fyi](https://albin.fyi) · [LinkedIn](https://www.linkedin.com/in/brattlof) · mail@albin.fyi
