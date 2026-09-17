@@ -1,4 +1,9 @@
-<p  align="center">
-  <!--<img src="https://visitor-badge.glitch.me/badge?page_id=Brattlof" alt="visitor count"/></br>-->
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Brattlof" alt="visitor badge"/></br>
-</p>
+# Albin Brattlöf
+
+Software engineer in Borlänge, Sweden. I take systems from architecture to production: the backend, the frontend, and the infrastructure underneath. Mostly C#, Go, Rust and TypeScript, running on Kubernetes.
+
+Low-level is where I started, Windows internals and reverse engineering back in 2019.
+
+### Elsewhere
+
+[albin.fyi](https://albin.fyi) · [LinkedIn](https://www.linkedin.com/in/brattlof) · mail@albin.fyi
